@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amo-zwk&count_private=true&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amo-zwk&repo=https://github.com/Amo-zwk/cs61bbb.git)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amo-zwk)](https://github.com/anuraghazra/github-readme-stats)
