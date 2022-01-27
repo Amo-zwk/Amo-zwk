@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, Amo-zwk here! :wave:
 
-[<img align="right" width="50%" src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai">]
+<div align="right"> <img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
