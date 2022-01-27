@@ -1,6 +1,6 @@
 ## Hey, ouuan here! :wave:
 
-<img align="right" width="45%" auto src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif">
+<img align="right" width="35%" auto src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif">
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
