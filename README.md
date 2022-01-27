@@ -86,9 +86,7 @@ I'm Zeng weikun, a student at Backery.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-438-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-553-blue)
 
 **🐱 My GitHub Data** 
 
@@ -158,7 +156,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 15:16:53 UTC
+ Last Updated on 27/01/2022 16:21:18 UTC
 <!--END_SECTION:waka-->
   
 </tr>
