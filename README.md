@@ -64,8 +64,7 @@ I'm Zeng weikun, a student at Backery.
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </p>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"/></div>
+
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Amo-zwk&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
