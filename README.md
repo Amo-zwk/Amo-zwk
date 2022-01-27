@@ -1,6 +1,6 @@
 ## Hey, ouuan here! :wave:
 
-[<img align="right" width="50%" margin:0 auto src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" auto src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif">]
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
