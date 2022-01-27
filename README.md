@@ -1,5 +1,4 @@
 ## Hey, Amo-zwk here! :wave:
-<div>
 ---
 <div display:flex justify-content: center margin: auto vertical-align: middle> <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Amo-zwk&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
 </div>
@@ -11,7 +10,6 @@ I'm Z**eng** W**ei**K**un**, a student at Backery.
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/Amo-zwk.gpg)
 ---
-</div>
 <div align="center"> <img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Amo-zwk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amo-zwk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
