@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, Amo-zwk here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Amo-zwk&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-
+<div align="right" width="50%"> <img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"> </div>
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
