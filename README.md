@@ -1,5 +1,5 @@
 ## Hey, ouuan here! :wave:
----
+
 [<img align="right" width="45%" auto src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif">]
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
