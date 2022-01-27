@@ -1,6 +1,7 @@
 ## Hey, Amo-zwk here! :wave:
 ---
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Amo-zwk&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">](https://metrics.lecoq.io/Amo-zwk?template=classic)
+<div <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Amo-zwk&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+</div>
 
 I'm Z**eng** W**ei**K**un**, a student at Backery.
 -   :hammer_and_pick: C++ / C / Java / Python / JavaScript / Vue
