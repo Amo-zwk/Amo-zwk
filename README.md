@@ -1,7 +1,7 @@
-## Hey, ouuan here! :wave:
+## Hey, Amo-zwk here! :wave:
 
 <img align="right" width="35%" auto src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif">
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+I'm Zeng weikun, a freshman at THU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
