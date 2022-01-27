@@ -80,3 +80,6 @@ I'm Zeng weikun, a student at Backery.
 <br>
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Amo-zwk&theme=xcode" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Amo-zwk/Amo-zwk/assets/github-contribution-grid-snake.svg" /></div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
