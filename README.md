@@ -81,23 +81,13 @@ I'm Zeng weikun, a student at Backery.
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Amo-zwk&theme=xcode" /></div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Amo-zwk/Amo-zwk/assets/github-contribution-grid-snake.svg" /></div>
+
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">  
+  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-305-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 100 Contributions in the Year 2022
- > 
-> 📦 11.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 9 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -108,7 +98,7 @@ I'm Zeng weikun, a student at Backery.
 
 ```
 📅 **I'm Most Productive on Thursday** 
-
+  
 ```text
 Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
 Tuesday      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
@@ -140,19 +130,9 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
-
-```text
-Java                     4 repos             ████████████████████░░░░░   80.0% 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
-
 
  Last Updated on 27/01/2022 12:02:58 UTC
 <!--END_SECTION:waka-->
+  
+</tr>
+</table>
