@@ -13,11 +13,15 @@ I'm Zeng weikun, a student at Backery.
 ---
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;How many vistors have been to my Github? See the right data.    <img magin:auto src="https://visitor-badge.glitch.me/badge?page_id=Amo-zwk"/></p>
 <p>✍️&nbsp;&nbsp;Hello, everyone. I love computer science and the Internet, and I am determined to become a senior programmer!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;I started too late, but it's not too late. Hard work will pay off. I will succeed.</p>
 <p>&emsp;&emsp;The road is obstacle-packed and long.But you will get through if you keep going.</p>
+
+👯 访问人数:
+
+&emsp;&emsp;
+<img  src="https://visitor-badge.glitch.me/badge?page_id=Amo-zwk" />
 
 💪 正在学习: 
 
@@ -74,4 +78,5 @@ I'm Zeng weikun, a student at Backery.
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amo-zwk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Amo-zwk&theme=xcode" /></div>
