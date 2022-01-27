@@ -13,7 +13,7 @@ I'm Zeng weikun, a student at Backery.
 ---
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;How many vistors have been to my Github? See the right data.</p> <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Amo-zwk" /> </div>
+<p>✍️&nbsp;&nbsp;How many vistors have been to my Github? See the right data.    <img magin:auto src="https://visitor-badge.glitch.me/badge?page_id=Amo-zwk"/></p>
 <p>✍️&nbsp;&nbsp;Hello, everyone. I love computer science and the Internet, and I am determined to become a senior programmer!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;I started too late, but it's not too late. Hard work will pay off. I will succeed.</p>
