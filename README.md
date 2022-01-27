@@ -1,14 +1,16 @@
-## Hey, Amo-zwk here! :wave:
----
-<div display:flex justify-content: center margin: auto vertical-align: middle> <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Amo-zwk&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
-</div>
-I'm Z**eng** W**ei**K**un**, a student at Backery.
--   :hammer_and_pick: C++ / C / Java / Python / JavaScript / Vue
+## Hey, ouuan here! :wave:
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
+I'm Y**ou** Y**u**f**an**, a freshman at THU.
+
+-   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at Backery
+-   :seedling: Taking courses & doing assignments at THU
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/Amo-zwk.gpg)
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+
 ---
 <div align="center"> <img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Amo-zwk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
