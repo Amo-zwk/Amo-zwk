@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, Amo-zwk here! :wave:
 
-<div align="right"> <img src="https://metrics.lecoq.io/Amo-zwk?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Amo-zwk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
