@@ -88,11 +88,11 @@ I'm Zeng weikun, a student at Backery.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 175 Contributions in the Year 2022
+> 🏆 176 Contributions in the Year 2022
  > 
 > 📦 12.9 kB Used in GitHub's Storage 
  > 
@@ -105,8 +105,8 @@ I'm Zeng weikun, a student at Backery.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-🌆 Daytime    72 commits     ████████████░░░░░░░░░░░░░   48.0% 
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+🌆 Daytime    71 commits     ███████████░░░░░░░░░░░░░░   47.33% 
 🌃 Evening    50 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
 🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
 
@@ -159,7 +159,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2022 00:37:43 UTC
+ Last Updated on 17/02/2022 01:50:48 UTC
 <!--END_SECTION:waka-->
   
 </tr>
