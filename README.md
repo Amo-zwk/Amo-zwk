@@ -88,13 +88,13 @@ I'm Zeng weikun, a student at Backery.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 179 Contributions in the Year 2022
+> 🏆 180 Contributions in the Year 2022
  > 
-> 📦 12.6 kB Used in GitHub's Storage 
+> 📦 12.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,8 +105,8 @@ I'm Zeng weikun, a student at Backery.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌆 Daytime    68 commits     ███████████░░░░░░░░░░░░░░   45.33% 
+🌞 Morning    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    67 commits     ███████████░░░░░░░░░░░░░░   44.67% 
 🌃 Evening    50 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
 🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
 
@@ -114,10 +114,10 @@ I'm Zeng weikun, a student at Backery.
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
 Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
 Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-Thursday     79 commits     █████████████░░░░░░░░░░░░   52.67% 
+Thursday     78 commits     █████████████░░░░░░░░░░░░   52.0% 
 Friday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
 Saturday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
 Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
@@ -159,7 +159,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2022 22:11:49 UTC
+ Last Updated on 21/02/2022 01:56:51 UTC
 <!--END_SECTION:waka-->
   
 </tr>
