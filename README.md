@@ -94,7 +94,7 @@ I'm Zeng weikun, a student at Backery.
 
 > 🏆 192 Contributions in the Year 2022
  > 
-> 📦 13.7 kB Used in GitHub's Storage 
+> 📦 13.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -158,7 +158,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/03/2022 09:11:26 UTC
+ Last Updated on 05/03/2022 13:15:04 UTC
 <!--END_SECTION:waka-->
   
 </tr>
