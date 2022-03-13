@@ -131,16 +131,20 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 hrs 52 mins       ████████████████████████░   98.02% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 7 hrs 1 min         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+proj0                    5 hrs 10 mins       ██████████████████░░░░░░░   73.65% 
+lab2                     1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   26.25% 
+cs61bbb                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -158,7 +162,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/03/2022 18:13:49 UTC
+ Last Updated on 13/03/2022 19:10:42 UTC
 <!--END_SECTION:waka-->
   
 </tr>
