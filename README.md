@@ -86,7 +86,7 @@ I'm Zeng weikun, a student at Backery.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -162,7 +162,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/03/2022 12:21:25 UTC
+ Last Updated on 14/03/2022 13:24:33 UTC
 <!--END_SECTION:waka-->
   
 </tr>
