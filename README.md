@@ -94,7 +94,7 @@ I'm Zeng weikun, a student at UC Berkeley.
 
 > 🏆 260 Contributions in the Year 2022
  > 
-> 📦 15.3 kB Used in GitHub's Storage 
+> 📦 15.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 22:12:41 UTC
+ Last Updated on 31/03/2022 23:14:17 UTC
 <!--END_SECTION:waka-->
   
 </tr>
