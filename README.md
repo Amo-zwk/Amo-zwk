@@ -86,7 +86,7 @@ I'm Zeng weikun, a student at UC Berkeley.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -94,7 +94,7 @@ I'm Zeng weikun, a student at UC Berkeley.
 
 > 🏆 263 Contributions in the Year 2022
  > 
-> 📦 15.5 kB Used in GitHub's Storage 
+> 📦 15.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/04/2022 05:12:02 UTC
+ Last Updated on 02/04/2022 06:15:55 UTC
 <!--END_SECTION:waka-->
   
 </tr>
