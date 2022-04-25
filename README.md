@@ -86,7 +86,7 @@ I'm Zeng weikun, a student at UC Berkeley.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -159,7 +159,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 22:13:22 UTC
+ Last Updated on 25/04/2022 00:54:01 UTC
 <!--END_SECTION:waka-->
   
 </tr>
