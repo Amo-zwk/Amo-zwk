@@ -86,6 +86,8 @@ I'm Zeng weikun, a student at UC Berkeley.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -132,7 +134,8 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 C                        2 hrs 8 mins        ██████████████████░░░░░░░   73.22% 
 C++                      47 mins             ██████░░░░░░░░░░░░░░░░░░░   26.77% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 VS Code                  2 hrs 55 mins       █████████████████████████   100.0%
@@ -160,7 +163,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/04/2022 16:24:11 UTC
+ Last Updated on 29/04/2022 00:58:16 UTC
 <!--END_SECTION:waka-->
   
 </tr>
