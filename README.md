@@ -86,15 +86,15 @@ I'm Zeng weikun, a student at UC Berkeley.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 317 Contributions in the Year 2022
+> 🏆 318 Contributions in the Year 2022
  > 
-> 📦 19.5 kB Used in GitHub's Storage 
+> 📦 19.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,9 +114,9 @@ I'm Zeng weikun, a student at UC Berkeley.
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
 Tuesday      51 commits     ██████░░░░░░░░░░░░░░░░░░░   24.88% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
+Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
 Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
 Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
@@ -164,7 +164,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 01:05:52 UTC
+ Last Updated on 11/05/2022 03:18:16 UTC
 <!--END_SECTION:waka-->
   
 </tr>
