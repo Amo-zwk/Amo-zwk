@@ -164,7 +164,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/05/2022 11:11:54 UTC
+ Last Updated on 14/05/2022 12:24:49 UTC
 <!--END_SECTION:waka-->
   
 </tr>
