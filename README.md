@@ -86,7 +86,7 @@ I'm Zeng weikun, a student at UC Berkeley.
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
@@ -131,17 +131,17 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 55 mins       █████████████████████████   99.96% 
+Python                   3 hrs 50 mins       █████████████████████████   99.96% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  7 hrs 55 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-BackeryCS61A_2018Spring- 7 hrs 55 mins       █████████████████████████   100.0%
+BackeryCS61A_2018Spring- 3 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 55 mins       █████████████████████████   100.0%
+Windows                  3 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -161,7 +161,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Amo-zwk/Amo-zwk/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 16:32:39 UTC
+ Last Updated on 16/05/2022 17:25:31 UTC
 <!--END_SECTION:waka-->
   
 </tr>
